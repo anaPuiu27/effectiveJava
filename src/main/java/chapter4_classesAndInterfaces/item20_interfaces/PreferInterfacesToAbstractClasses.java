@@ -1,7 +1,6 @@
 package chapter4_classesAndInterfaces.item20_interfaces;
 
-import chapter4_classesAndInterfaces.item20_interfaces.Demo.abstracts.SingerWalker;
-import chapter4_classesAndInterfaces.item20_interfaces.Demo.simulate.SingerWriterImpl;
+import chapter4_classesAndInterfaces.item20_interfaces.demo.simulate.SingerWriterImpl;
 
 public class PreferInterfacesToAbstractClasses {
 
