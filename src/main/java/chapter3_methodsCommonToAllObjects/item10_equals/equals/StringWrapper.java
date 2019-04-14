@@ -1,4 +1,4 @@
-package chapter3_methodsCommonToAllObjects.item11_equals.equals;
+package chapter3_methodsCommonToAllObjects.item10_equals.equals;
 
 import java.util.Random;
 

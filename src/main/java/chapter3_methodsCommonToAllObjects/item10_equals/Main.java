@@ -1,9 +1,9 @@
-package chapter3_methodsCommonToAllObjects.item11_equals;
+package chapter3_methodsCommonToAllObjects.item10_equals;
 
-import chapter3_methodsCommonToAllObjects.item11_equals.equals.OverrideEquals;
-import chapter3_methodsCommonToAllObjects.item11_equals.equals.StringWrapper;
-import chapter3_methodsCommonToAllObjects.item11_equals.equals.StringWrapperComposition;
-import chapter3_methodsCommonToAllObjects.item11_equals.equals.StringWrapperInheritance;
+import chapter3_methodsCommonToAllObjects.item10_equals.equals.OverrideEquals;
+import chapter3_methodsCommonToAllObjects.item10_equals.equals.StringWrapper;
+import chapter3_methodsCommonToAllObjects.item10_equals.equals.StringWrapperComposition;
+import chapter3_methodsCommonToAllObjects.item10_equals.equals.StringWrapperInheritance;
 
 public class Main {
 

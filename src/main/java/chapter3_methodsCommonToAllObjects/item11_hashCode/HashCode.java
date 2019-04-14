@@ -1,4 +1,4 @@
-package chapter3_methodsCommonToAllObjects.item12_hashCode;
+package chapter3_methodsCommonToAllObjects.item11_hashCode;
 
 public class HashCode {
 

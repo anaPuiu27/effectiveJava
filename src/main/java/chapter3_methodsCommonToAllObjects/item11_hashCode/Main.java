@@ -1,4 +1,4 @@
-package chapter3_methodsCommonToAllObjects.item12_hashCode;
+package chapter3_methodsCommonToAllObjects.item11_hashCode;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.commons.lang3.RandomUtils;
